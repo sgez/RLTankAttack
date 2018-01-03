@@ -1,0 +1,14 @@
+#summary RLTankAttack Elements
+
+= Introduction =
+
+RLTankAttack Elements
+
+
+= Details =
+
+The key RL elements of the RLTankAttack that need to be developed are:
+  * Policy
+  * Reward function
+  * Value function
+  * Model

@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<game>
+<start>2012-01-15 13:22:48</start>
+<move boat='0' timestamp='2012-01-15 13:22:50'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:22:51'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:22:54'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[ True  True  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:22:58'>
+<valve column='1' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[ True False  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:01'>
+<valve column='0' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:06'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:06'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:07'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:07'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:07'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:07'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:07'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:08'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:08'>
+<valve column='6' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:09'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:09'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:09'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:10'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:10'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:10'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:10'>
+<valve column='5' lookingup='False'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:11'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:12'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:12'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:12'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:12'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:12'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:13'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True False False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:13'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:13'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:13'>
+<valve column='5' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:14'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:14'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:14'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:15'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:15'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:15'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:15'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True False  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:15'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:16'>
+<valve column='6' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False False  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-15 13:23:17'>
+<valve column='1' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[False  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-15 13:23:19'>
+<valve column='0' lookingup='True'/>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+</game>

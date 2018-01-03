@@ -1,0 +1,20 @@
+#summary "Load Move From Text File" Algorithm
+
+= Introduction =
+
+Algorithm description on how AI will write a file as a current move and not a logged move, so that the GUI and the key arrays are reproduced. 
+AI will be able to create p2 or wl array (wl could have an effect on p1 or p2).
+
+= Details =
+
+Variable G_move holds current move. Variable G_game holds current game. 
+G_move is the move that is about to be recorded via savemove() that logs p1, p2 and wl states after a move is performed.
+
+  * If (./games/[G_game]/moves/[G_move]/p2) file or If (./games/[G_game]/moves/[G_move]/wl) file exists and (./games/[G_game]/moves/[G_move]/p1) does not exist i.e. (('p2' || 'wl') and not 'p1')
+then:
+    # If it is BOATS_TURN=1 (human is 0, AI is 1)
+    # If move is valid for boat or for water level based on prior states
+      # if wl move lowers boat then lower p1 or p2 boat
+      # skip mouse event wait via a flag AI_skip_mouse_flag
+      # run against game_state(p1, p2, wl) to get reward
+      # Toggle WHOSE_TURN

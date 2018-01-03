@@ -1,0 +1,43 @@
+#summary Game Flow Architecture
+#labels gameflow,architecture
+
+= Introduction =
+
+Game Flow Architecture
+
+= Architecture =
+
+[http://rltankattack.googlecode.com/svn/documents/mindmap/GAME-Flow.png]
+
+= Data Structure = 
+||RLTankAttack/||games/||001/||p,,1,,/|| ||
+|| || ||  || ||m,,1,,||
+|| || ||  || ||m,,2,,||
+|| || ||  || ||...||
+|| || ||  || ||m,,n,,||
+|| ||games/||001/||p,,2,,/|| ||
+|| || ||  || ||m,,1,,||
+|| || ||  || ||m,,2,,||
+|| || ||  || ||...||
+|| || ||  || ||m,,n,,||
+|| ||games/||.../||p,,1,,/|| ||
+|| || ||  || ||m,,1,,||
+|| || ||  || ||m,,2,,||
+|| || ||  || ||...||
+|| || ||  || ||m,,n,,||
+|| ||games/||.../||p,,2,,/|| ||
+|| || ||  || ||m,,1,,||
+|| || ||  || ||m,,2,,||
+|| || ||  || ||...||
+|| || ||  || ||m,,n,,||
+
+
+= Python NumPy Array Load/Save functions =
+
+*#NumPy save array WATER_LEVEL to text file 'games/001/wl/m2'*
+
+`np.savetxt('games/001/wl/m2',WATER_LEVEL, fmt='%d')`
+
+*#NumPy load array to WATER_LEVEL from text file 'games/001/wl/m2'*
+
+`WATER_LEVEL = np.loadtxt('games/001/wl/m2',dtype=np.bool)` 

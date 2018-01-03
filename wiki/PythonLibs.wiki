@@ -1,0 +1,29 @@
+#labels python,rl-glue,pygame,libraries
+===Python===    
+Python Programming Language *(32bit - matplotlib compatible)*
+[http://www.python.org/download/releases/2.7.2/ link]
+
+===Pygame===    
+Python Game Library - canvas, screen,display input anipulation
+Requires: Python, Numpy 
+[http://pygame.org/download.shtml link]
+
+===RL-Glue===    
+RL-Glue (Reinforcement Learning Glue) provides a standard interface that allows you to connect reinforcement learning agents, environments, and experiment programs together, even if they are written in different languages. Python RL-Glue Codec, a software library provides socket-compatibility with the RL-Glue.
+Requires: Python (works faster with Numpy)
+[http://glue.rl-community.org/wiki/Main_Page link]  [http://videolectures.net/mloss08_tanner_rlgcg/ video]
+
+===Numpy===    
+Scientific computing with Python. 
+Requires: Python 
+[http://numpy.scipy.org/ link]
+
+===Scipy===        
+Python mathematics, science, and engineering libraries
+Requires: Python, Numpy 
+[http://www.scipy.org/Download link]
+
+===Matplotlib===    
+Python 2D plotting library
+Requires: Python, Numpy 
+[http://matplotlib.sourceforge.net/ link]

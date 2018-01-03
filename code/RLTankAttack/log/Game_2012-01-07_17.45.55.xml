@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<game>
+<start>2012-01-07 17:45:55</start>
+<move boat='0' timestamp='2012-01-07 17:46:02'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:03'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:21'>
+<boat>
+[[False  True False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:27'>
+<boat>
+[[False  True False False False False False False False]
+ [False False False False False False False  True False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:28'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False  True False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:30'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:31'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:31'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:32'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:32'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:32'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:32'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:32'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:32'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:33'>
+<boat>
+[[ True False False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:35'>
+<boat>
+[[False  True False False False False False False False]
+ [False False False False False False False False  True]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:36'>
+<boat>
+[[False  True False False False False False False False]
+ [False False False False False False False  True False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:37'>
+<boat>
+[[False False  True False False False False False False]
+ [False False False False False False False  True False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:38'>
+<boat>
+[[False False  True False False False False False False]
+ [False False False False False False  True False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:38'>
+<boat>
+[[False False False  True False False False False False]
+ [False False False False False False  True False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:39'>
+<boat>
+[[False False False  True False False False False False]
+ [False False False False False  True False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:39'>
+<boat>
+[[False False False False  True False False False False]
+ [False False False False False  True False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:40'>
+<boat>
+[[False False False False  True False False False False]
+ [False False False False  True False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:41'>
+<boat>
+[[False False False False False  True False False False]
+ [False False False False  True False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:42'>
+<boat>
+[[False False False False False  True False False False]
+ [False False False  True False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:43'>
+<boat>
+[[False False False False False False  True False False]
+ [False False False  True False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:43'>
+<boat>
+[[False False False False False False  True False False]
+ [False False  True False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:44'>
+<boat>
+[[False False False False False False False  True False]
+ [False False  True False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:45'>
+<boat>
+[[False False False False False False False  True False]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:45'>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:46:46'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:47'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:48'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:48'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:48'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:48'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:48'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:48'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:48'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:49'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:49'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:49'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:49'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:46:55'>
+<valve column='7' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:00'>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:16'>
+<valve column='2' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:21'>
+<valve column='7' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:25'>
+<valve column='7' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:32'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:33'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:33'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:33'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:33'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:34'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:34'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:34'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:34'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:39'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:40'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:40'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:40'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:40'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:40'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:40'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:40'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:41'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:41'>
+<valve column='7' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:42'>
+<valve column='7' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:42'>
+<valve column='7' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True False  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:43'>
+<valve column='2' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:44'>
+<valve column='2' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:48'>
+<valve column='8' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True  True False]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:47:51'>
+<valve column='8' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:47:59'>
+<valve column='7' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:48:05'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:48:22'>
+<valve column='1' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:48:28'>
+<valve column='7' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:48:39'>
+<valve column='7' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:48:41'>
+<valve column='7' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:49:17'>
+<valve column='7' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:17'>
+<valve column='7' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:49:17'>
+<valve column='7' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:18'>
+<valve column='1' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:49:20'>
+<valve column='1' lookingup='True'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:34'>
+<valve column='7' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True  True  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:49:41'>
+<valve column='1' lookingup='False'/>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:54'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:55'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:55'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:56'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:56'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:56'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:56'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:56'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:56'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:57'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:57'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:57'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:57'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:58'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:58'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:58'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:58'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:58'>
+<boat>
+[[False False False False False False False False  True]
+ [ True False False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:49:59'>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:50:07'>
+<boat>
+[[False False False False False False False False  True]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='0' timestamp='2012-01-07 17:50:09'>
+<boat>
+[[False False False False False False False  True False]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>
+[[ True False  True  True  True  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>
+<move boat='1' timestamp='2012-01-07 17:52:22'>
+<valve column='4' lookingup='False'/>
+<boat>
+[[False False False False False False False  True False]
+ [False  True False False False False False False False]]
+</boat>
+<water_level>[[ True False  True  True False  True  True False  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]
+ [ True  True  True  True  True  True  True  True  True]]
+</water_level>
+</move>

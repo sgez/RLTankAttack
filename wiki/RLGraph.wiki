@@ -1,0 +1,20 @@
+#summary RLGraph Building
+
+= Introduction =
+
+The games/ directory holds actions and states. The best data structure to hold everything in one place is a directional weighted graph, with its node being the state, the edge being the action the the weight will be the value.
+
+
+= Details =
+
+The graph that can be produced is shown here: 
+
+[http://rltankattack.googlecode.com/svn/documents/mindmap/START-to-finish.png]
+
+On the example above, the RLGraph studies /games/#/moves/# directories and shows 5 games with 2 resulting to winning for the AI (node 1) and 3 in loosing (node -1).
+
+For practical reasons, the node name is an md5'ed version of the arrays wl, p1 and p2.
+
+The action array is embedded at the edge.
+
+The value derived based on the reward will be added as weight to the edges.

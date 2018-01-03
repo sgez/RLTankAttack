@@ -1,0 +1,12 @@
+#summary Thoughts on Clicking valve instead Water Sprite
+#labels valve,algorithm
+
+= Introduction =
+
+http://rltankattack.googlecode.com/svn/documents/mindmap/ThoughtsOnClicking_v2.png
+
+
+= Details =
+
+Maybe it would be better to click on a pair of valves situated below a water sprite column to drive water away/to the water reserve, which will be situated bellow the tank itself.
+Valve pairs are demonstrated on the pic, red showing a drain valve, green a supposed fill valve.

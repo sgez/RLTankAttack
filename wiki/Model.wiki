@@ -1,0 +1,10 @@
+#summary Game Model Overlay
+
+= Introduction =
+
+Model Arrays of the enviroment
+
+= Details =
+Overlay example via matplot3d from pyplotlib via [http://code.google.com/p/rltankattack/source/browse/code/RLTankAttack/tests/pybrain_test.py?spec=svn138&r=138 pybrain_test.py]. 
+Shows Boat0, Boat1 and WaterLevel arrays on  xyz scale.
+http://rltankattack.googlecode.com/svn-history/r138/documents/mindmap/Overlay-MatPlotLib.png

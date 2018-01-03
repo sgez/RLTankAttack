@@ -1,0 +1,37 @@
+#summary Abstract and very general gameplay description and rules.
+#labels gameplay
+
+= Introduction =
+
+Abstract and very general gameplay description and rules.
+
+
+= Definitions =
+
+  * The players are 2 *boats*.
+  * A *lock tank* is a water column that can be drained or filled via valves with water.
+  * The *water tank* on which the two boats can float, consists of a finite number of lock tanks.
+  * a *valve* controls water level in a lock tank.
+
+= Rules =
+  * Each boat starts over dry land (far left or far right).
+  * Each player when in turn can do only one action at a time (description bellow).
+  * A boat can overlap another other boat.
+  * A boat must reside over dry land or a water sprite that is at most one level drained.
+  *The number of valves is double the number of lock tanks.
+  * Each water lock tack can be drained or filled by one level via 2 valves (1 up, 1 down).
+  * If a boat is over a column that is drained by more than 1 levels, then the boat is destroyed.
+  * If a boat is not over water (as described above) or not over dry land, then it is destroyed.
+
+*keywords:* boat, lock tank, valve
+
+= Available Player Actions =
+
+There are two abstract actions available to each player's turn:
+
+  * *Move Boat*
+    * Forward
+    * Backward
+  * *Handle Valve* (2 on each lock tank)
+    * Drain
+    * Fill

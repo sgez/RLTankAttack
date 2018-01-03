@@ -1,0 +1,11 @@
+#summary RL-Glue Python codec Installation On Windows 7
+
+===Description===
+RL-Glue Python codec Installation On Windows 7
+
+===How to install===
+To install the codec on an x64 win7 machine you have to install from source, i.e: 
+{{{
+c:\> cd python-codec/src
+c:\python-codec\src> python setup.py install
+}}}

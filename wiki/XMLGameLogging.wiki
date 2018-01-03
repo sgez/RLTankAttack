@@ -1,0 +1,13 @@
+#summary XML Game Logging
+
+= Introduction =
+
+XML Game Logging
+
+
+= Details =
+
+XML tree used to log a game for later debugging or to run scenarios for the AI can be found [http://rltankattack.googlecode.com/svn/documents/mindmap/Game_RLTA_XML_EXAMPLE.xml here].
+
+= Screenshot =
+[http://rltankattack.googlecode.com/svn/documents/mindmap/GAME_RLTA_XML.png]

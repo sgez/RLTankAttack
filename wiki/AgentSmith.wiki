@@ -1,0 +1,19 @@
+#summary 02__AgentSmith.py description
+#labels agent
+
+= Introduction =
+
+02__AgentSmith.py description
+
+
+= Details =
+
+`02__AgentSmith.py` will implement the Agent to play as player 2 (boat 1) 
+It will manipulate read p1, p2 and wl arrays, think and then write either p2 or wl and leave p1 intact as his next move.
+
+past move: `./games/[G]/moves/[N]/p1, p2 & wl`
+move to be played by agent: `./games/[G]/moves/[N+1]/p1, p2 & wl`
+
+load --> think --> save
+
+Will read/load p1, p2 & wl arrays, then think (learn alogrithm Q-Learn or SARSA but will only write either p2 or wl at a time at each turn), a player can only move his/her/its own boat or the water level but will save all three arrays leaving p2 intact into to [N+1] directory

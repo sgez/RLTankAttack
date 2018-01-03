@@ -1,0 +1,24 @@
+#summary Check who is winner function
+
+= Introduction =
+
+Who is winner algorithm function.
+
+
+= Details =
+The function below returns, based on current state of water and boat situation which boat has won or whether the game has not ended yet:
+
+{{{
+def who_is_winner(self, water_level, boat_row):
+        retval = -1
+        '''
+           ret vals: -1, 0, 1
+                 -1: no winner i.e. still playing
+                  0: player id 0
+                  1: player id 1
+        water_level: water level array
+           boat_row: position for each boat on top array
+        '''
+
+        return retval        
+}}}

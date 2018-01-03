@@ -1,0 +1,12 @@
+#summary Abstract Application Stack Overview
+
+= Introduction =
+
+Abstract Application Stack Overview
+
+
+= Details =
+
+<img src="http://rltankattack.googlecode.com/svn/documents/mindmap/Stack.png" align="center">
+
+[http://rltankattack.googlecode.com/svn/documents/mindmap/Stack.dia DIA file]

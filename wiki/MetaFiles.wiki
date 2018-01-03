@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+The three meta files used to transfer state, players turn and reward from the game to the agent and reverse.
+
+
+= Details =
+
+|| *Title* || *Values* || *File* || *Description* ||
+|| *TURN* ||[0, 1]||./games/NN/turn||Which boats turn it is to play - Manipulated by the `WhosTurn.py` class.||
+|| *FINISHED* ||[0, 1]||./games/NN/finished||Whether the game is finished - Manipulated by the `01__RunGame.py` class||
+|| *REWARD* ||[0, -1, 1]||./games/NN/reward||Zero represents game still played, -1 agent lost, 1 agent won - Manipulated via the `01__RunGame.py` and `GameState.py` classes.||
